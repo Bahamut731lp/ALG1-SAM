@@ -1,0 +1,119 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch StejnaData",
+            "request": "launch",
+            "mainClass": "StejnaData",
+            "projectName": "ALG1_81d56986"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sekvence",
+            "request": "launch",
+            "mainClass": "Sekvence",
+            "projectName": "ALG1_81d56986"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pocet",
+            "request": "launch",
+            "mainClass": "Pocet",
+            "projectName": "ALG1_81d56986"
+        },
+        {
+            "type": "java",
+            "name": "Launch Cifry",
+            "request": "launch",
+            "mainClass": "Cifry",
+            "projectName": "ALG1_81d56986"
+        },
+        {
+            "type": "java",
+            "name": "Launch RozkladCisla",
+            "request": "launch",
+            "mainClass": "RozkladCisla",
+            "projectName": "ALG1_81d56986"
+        },
+        {
+            "type": "java",
+            "name": "Launch DelitelNasobek",
+            "request": "launch",
+            "mainClass": "DelitelNasobek",
+            "projectName": "ALG1_81d56986"
+        },
+        {
+            "type": "java",
+            "name": "Launch BarvaPole",
+            "request": "launch",
+            "mainClass": "BarvaPole",
+            "projectName": "ALG1_81d56986"
+        },
+        {
+            "type": "java",
+            "name": "Launch CtyriCisla",
+            "request": "launch",
+            "mainClass": "CtyriCisla",
+            "projectName": "ALG1_81d56986"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrumernaDenniTeplota",
+            "request": "launch",
+            "mainClass": "PrumernaDenniTeplota",
+            "projectName": "ALG1_81d56986"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrevodSekund",
+            "request": "launch",
+            "mainClass": "PrevodSekund",
+            "projectName": "ALG1_81d56986"
+        },
+        {
+            "type": "java",
+            "name": "Launch TabulkaPoradi",
+            "request": "launch",
+            "mainClass": "TabulkaPoradi",
+            "projectName": "ALG1_81d56986"
+        },
+        {
+            "type": "java",
+            "name": "Launch TabulkaPozice",
+            "request": "launch",
+            "mainClass": "TabulkaPozice",
+            "projectName": "ALG1_81d56986"
+        },
+        {
+            "type": "java",
+            "name": "Launch VypisRealneCislo",
+            "request": "launch",
+            "mainClass": "VypisRealneCislo",
+            "projectName": "ALG1_81d56986"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch EchoText",
+            "request": "launch",
+            "mainClass": "EchoText",
+            "projectName": "ALG1_81d56986"
+        },
+        {
+            "type": "java",
+            "name": "Launch VypisCeleCislo",
+            "request": "launch",
+            "mainClass": "VypisCeleCislo",
+            "projectName": "ALG1_81d56986"
+        }
+    ]
+}
